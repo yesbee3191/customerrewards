@@ -1,3 +1,3 @@
-com/customer/rewards/service/CustomerRewardsServiceTest.class
-com/customer/rewards/builder/CustomerResponseBuilderTest.class
-com/customer/rewards/controller/CustomerRewardsControllerTest.class
+com\customer\rewards\controller\CustomerRewardsControllerTest.class
+com\customer\rewards\builder\CustomerResponseBuilderTest.class
+com\customer\rewards\service\CustomerRewardsServiceTest.class

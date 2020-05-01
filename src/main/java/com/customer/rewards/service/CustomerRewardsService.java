@@ -6,7 +6,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import com.customer.rewards.builder.CustomerResponseBuilder;
-import com.cutomer.rewards.model.TransactionPeriod;
+import com.customer.rewards.model.TransactionPeriod;
 
 @Service
 public class CustomerRewardsService {

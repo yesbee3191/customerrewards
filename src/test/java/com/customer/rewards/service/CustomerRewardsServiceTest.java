@@ -19,8 +19,7 @@ import org.mockito.junit.MockitoJUnitRunner;
 import org.springframework.boot.test.context.SpringBootTest;
 
 import com.customer.rewards.builder.CustomerResponseBuilder;
-import com.cutomer.rewards.model.Transaction;
-import com.cutomer.rewards.model.TransactionPeriod;
+import com.customer.rewards.model.TransactionPeriod;
 
 @RunWith(MockitoJUnitRunner.class)
 @SpringBootTest

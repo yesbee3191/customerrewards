@@ -1,4 +1,4 @@
-package com.cutomer.rewards.model;
+package com.customer.rewards.model;
 
 import java.util.List;
 

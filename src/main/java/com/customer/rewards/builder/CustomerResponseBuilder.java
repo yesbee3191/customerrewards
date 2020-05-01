@@ -6,9 +6,9 @@ import java.util.List;
 
 import org.springframework.stereotype.Component;
 
-import com.cutomer.rewards.model.Customer;
-import com.cutomer.rewards.model.Transaction;
-import com.cutomer.rewards.model.TransactionPeriod;
+import com.customer.rewards.model.Customer;
+import com.customer.rewards.model.Transaction;
+import com.customer.rewards.model.TransactionPeriod;
 
 @Component
 public class CustomerResponseBuilder {

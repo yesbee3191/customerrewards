@@ -1,4 +1,4 @@
-package com.cutomer.rewards.controller;
+package com.customer.rewards.controller;
 
 import java.util.List;
 
@@ -16,7 +16,7 @@ import org.springframework.web.bind.annotation.RestController;
 import com.customer.rewards.exception.CustomerRewardException;
 import com.customer.rewards.exception.ErrorResponse;
 import com.customer.rewards.service.CustomerRewardsService;
-import com.cutomer.rewards.model.TransactionPeriod;
+import com.customer.rewards.model.TransactionPeriod;
 
 @RestController
 public class CustomerRewardsController {

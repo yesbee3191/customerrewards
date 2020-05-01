@@ -21,8 +21,7 @@ import org.springframework.test.web.servlet.MockMvc;
 import org.springframework.test.web.servlet.setup.MockMvcBuilders;
 
 import com.customer.rewards.service.CustomerRewardsService;
-import com.cutomer.rewards.controller.CustomerRewardsController;
-import com.cutomer.rewards.model.TransactionPeriod;
+import com.customer.rewards.model.TransactionPeriod;
 
 @RunWith(MockitoJUnitRunner.class)
 @SpringBootTest

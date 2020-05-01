@@ -12,10 +12,9 @@ import org.mockito.MockitoAnnotations;
 import org.mockito.junit.MockitoJUnitRunner;
 import org.springframework.boot.test.context.SpringBootTest;
 
-import com.customer.rewards.CustomerRewardsApplication;
-import com.cutomer.rewards.model.Customer;
-import com.cutomer.rewards.model.Transaction;
-import com.cutomer.rewards.model.TransactionPeriod;
+import com.customer.rewards.model.Customer;
+import com.customer.rewards.model.Transaction;
+import com.customer.rewards.model.TransactionPeriod;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotNull;
